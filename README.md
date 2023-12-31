@@ -1,1 +1,1 @@
-# Kahvediyari_WebSite
+This is a kahvediyari.com.tr clone.
